@@ -34,7 +34,7 @@
 				<cloudHubDeployment>
 				<username>sakthiarunjuly2020</username>
 				<environment>Sandbox</environment>
-				<worker>1</worker>
+				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>WorldTimeZone-Service</applicationName>
 				<password>!April012020!</password>
